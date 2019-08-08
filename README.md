@@ -1,5 +1,7 @@
 # DS-Assignment-2
 
+Using C++ data structures.
+
 infix to postfix conversion
 and evaluation
 
